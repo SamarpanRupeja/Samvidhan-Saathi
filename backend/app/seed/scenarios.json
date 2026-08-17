@@ -1,0 +1,317 @@
+[
+  {
+    "scenario_title_en": "The College Assembly Ban",
+    "scenario_title_hi": "कॉलेज सभा पर प्रतिबंध",
+    "scenario_description_en": "You are the president of your college student union. The college principal issues a notice: 'All student gatherings and assemblies are banned on campus until further notice due to recent protests.' Your union wants to organize a peaceful assembly to discuss student issues.",
+    "scenario_description_hi": "आप कॉलेज छात्र संघ के अध्यक्ष हैं। प्रिंसिपल ने नोटिस जारी किया: 'हाल के विरोध प्रदर्शनों के कारण कैंपस में सभी छात्र सभाओं पर प्रतिबंध।' आपका संघ छात्र मुद्दों पर शांतिपूर्ण सभा करना चाहता है।",
+    "difficulty_level": 3,
+    "primary_article_id": 19,
+    "related_articles": [14, 21],
+    "topic_id": 1,
+    "options": [
+      {"option": "A", "text": "Accept the ban — the college has the right to make any rules", "is_correct": false, "feedback": "Not quite. While colleges can make rules, they cannot violate your Fundamental Rights."},
+      {"option": "B", "text": "Challenge the ban — it violates Article 19(1)(b), Right to Assemble Peacefully", "is_correct": true, "feedback": "Correct! Article 19(1)(b) guarantees the right to assemble peacefully and without arms. A blanket ban on all assemblies is unconstitutional."},
+      {"option": "C", "text": "Organize a secret assembly anyway", "is_correct": false, "feedback": "While you have the right to assemble, the better approach is to legally challenge the unconstitutional ban."},
+      {"option": "D", "text": "Forget about student issues — it's not worth the trouble", "is_correct": false, "feedback": "Your constitutional rights exist to protect your ability to voice concerns. Don't give up!"}
+    ],
+    "explanation_en": "Article 19(1)(b) guarantees all citizens the right to assemble peacefully and without arms. A complete ban is NOT a reasonable restriction — the college could regulate the time, place, or manner of assemblies, but cannot ban all assemblies entirely. You can approach the High Court under Article 226.",
+    "explanation_hi": "अनुच्छेद 19(1)(b) सभी नागरिकों को शांतिपूर्वक और बिना हथियारों के सभा करने का अधिकार देता है। पूर्ण प्रतिबंध उचित प्रतिबंध नहीं है — कॉलेज सभाओं के समय, स्थान या तरीके को नियंत्रित कर सकता है, लेकिन सभी सभाओं पर पूर्ण प्रतिबंध नहीं लगा सकता।",
+    "related_case_law": "Babulal Parate v. State of Maharashtra (1960): Right to peaceful assembly cannot be denied on mere apprehension of breach of peace.",
+    "points_value": 75,
+    "tags": ["fundamental_rights", "student_rights", "assembly", "college_rules"]
+  },
+  {
+    "scenario_title_en": "Arrest Without Reason",
+    "scenario_title_hi": "बिना कारण गिरफ्तारी",
+    "scenario_description_en": "You are walking home from work late at night. A police officer stops you and says 'You are under arrest.' When you ask why, the officer refuses to give any reason and tries to take you to the police station.",
+    "scenario_description_hi": "आप रात को देर से काम से घर जा रहे हैं। एक पुलिस अधिकारी आपको रोकता है और कहता है 'आप गिरफ्तार हैं।' जब आप कारण पूछते हैं तो अधिकारी कोई कारण बताने से मना कर देता है।",
+    "difficulty_level": 2,
+    "primary_article_id": 22,
+    "related_articles": [21, 20],
+    "topic_id": 1,
+    "options": [
+      {"option": "A", "text": "Go quietly — police can arrest anyone anytime", "is_correct": false, "feedback": "Wrong! Police cannot arrest without informing you of the grounds. You have rights even during arrest."},
+      {"option": "B", "text": "Run away from the police", "is_correct": false, "feedback": "Running can lead to more trouble. The legal way is to assert your constitutional rights."},
+      {"option": "C", "text": "Assert your right under Article 22 — demand to know the reason for arrest", "is_correct": true, "feedback": "Correct! Article 22(1) guarantees that every arrested person must be informed of the grounds of arrest. The police MUST tell you why."},
+      {"option": "D", "text": "Offer the officer a bribe to let you go", "is_correct": false, "feedback": "Bribery is illegal and unnecessary. You have constitutional protections — use them!"}
+    ],
+    "explanation_en": "Under Article 22(1), every arrested person has the right to be informed of the grounds of arrest. They also have the right to consult a lawyer of their choice. Under Article 22(2), the arrested person must be produced before a magistrate within 24 hours.",
+    "explanation_hi": "अनुच्छेद 22(1) के तहत, गिरफ्तार व्यक्ति को गिरफ्तारी का कारण बताना अनिवार्य है। उन्हें अपनी पसंद के वकील से परामर्श का भी अधिकार है। अनुच्छेद 22(2) के तहत, गिरफ्तार व्यक्ति को 24 घंटे के भीतर मजिस्ट्रेट के सामने पेश करना होगा।",
+    "related_case_law": "D.K. Basu v. State of West Bengal (1997): Supreme Court laid down 11 guidelines for arrest, including informing grounds, right to lawyer, and medical examination.",
+    "points_value": 50,
+    "tags": ["fundamental_rights", "arrest", "police", "personal_liberty"]
+  },
+  {
+    "scenario_title_en": "The Journalist's Dilemma",
+    "scenario_title_hi": "पत्रकार की दुविधा",
+    "scenario_description_en": "You are a journalist who wrote an article criticizing a government policy on education. You receive a legal notice claiming the article 'damages government reputation' and demanding you take it down and apologize publicly.",
+    "scenario_description_hi": "आप एक पत्रकार हैं जिन्होंने शिक्षा पर सरकारी नीति की आलोचना करते हुए लेख लिखा। आपको कानूनी नोटिस मिलता है जिसमें कहा गया है कि लेख 'सरकार की प्रतिष्ठा को नुकसान पहुंचाता है' और इसे हटाने और सार्वजनिक रूप से माफी मांगने की मांग करता है।",
+    "difficulty_level": 3,
+    "primary_article_id": 19,
+    "related_articles": [14, 21],
+    "topic_id": 1,
+    "options": [
+      {"option": "A", "text": "Immediately apologize and delete the article", "is_correct": false, "feedback": "Don't give up your rights so easily! Criticism of government policy is protected speech."},
+      {"option": "B", "text": "Assert Article 19(1)(a) — Freedom of Speech and Expression", "is_correct": true, "feedback": "Correct! Article 19(1)(a) protects freedom of speech and expression, including the freedom of the press and the right to criticize government policies."},
+      {"option": "C", "text": "Freedom of Speech has no limits — write even more critical articles", "is_correct": false, "feedback": "While freedom of speech is protected, it does have reasonable restrictions under Article 19(2). Criticism of policy is protected, but understand the boundaries."},
+      {"option": "D", "text": "Ignore the notice completely", "is_correct": false, "feedback": "Legal notices should not be ignored. The correct approach is to respond by asserting your constitutional rights."}
+    ],
+    "explanation_en": "Article 19(1)(a) guarantees freedom of speech and expression. This includes freedom of the press and the right to criticize government policies. Criticism of policy is NOT defamation. However, Article 19(2) allows reasonable restrictions for defamation, national security, public order, etc. In this case, policy criticism is clearly protected speech.",
+    "explanation_hi": "अनुच्छेद 19(1)(a) अभिव्यक्ति की स्वतंत्रता की गारंटी देता है। इसमें प्रेस की स्वतंत्रता और सरकारी नीतियों की आलोचना का अधिकार शामिल है। नीति की आलोचना मानहानि नहीं है।",
+    "related_case_law": "Shreya Singhal v. Union of India (2015): Supreme Court struck down Section 66A of IT Act as violating Article 19(1)(a), reinforcing online free speech.",
+    "points_value": 75,
+    "tags": ["fundamental_rights", "free_speech", "press_freedom", "journalism"]
+  },
+  {
+    "scenario_title_en": "Denied Entry at a Temple",
+    "scenario_title_hi": "मंदिर में प्रवेश से मना",
+    "scenario_description_en": "Your friend, who belongs to a Scheduled Caste community, is denied entry to a local temple by the temple management. They say 'people of your caste cannot enter this temple — it's our tradition.'",
+    "scenario_description_hi": "आपके दोस्त, जो अनुसूचित जाति समुदाय से हैं, को स्थानीय मंदिर प्रबंधन द्वारा प्रवेश से मना कर दिया जाता है। वे कहते हैं 'आपकी जाति के लोग इस मंदिर में प्रवेश नहीं कर सकते — यह हमारी परंपरा है।'",
+    "difficulty_level": 2,
+    "primary_article_id": 17,
+    "related_articles": [14, 15, 25],
+    "topic_id": 1,
+    "options": [
+      {"option": "A", "text": "Accept it — religious traditions should be respected", "is_correct": false, "feedback": "While traditions are important, the Constitution explicitly abolishes untouchability in ALL forms. No tradition can override fundamental rights."},
+      {"option": "B", "text": "It's a private temple, so they can deny anyone", "is_correct": false, "feedback": "Wrong! Article 17 applies to both state and private actions. Untouchability is abolished in ALL forms, including in private religious institutions."},
+      {"option": "C", "text": "This violates Article 17 — untouchability is abolished and punishable by law", "is_correct": true, "feedback": "Absolutely correct! Article 17 abolishes untouchability in any form. Denying temple entry based on caste is a punishable offence under the Protection of Civil Rights Act, 1955."},
+      {"option": "D", "text": "Complain on social media but take no legal action", "is_correct": false, "feedback": "While raising awareness is good, this is a criminal offence. Legal action through the Protection of Civil Rights Act can bring justice."}
+    ],
+    "explanation_en": "Article 17 abolishes untouchability and makes its practice in any form a punishable offence. This is one of the few fundamental rights that operates against private individuals too, not just the state. The Protection of Civil Rights Act, 1955 provides for imprisonment up to 6 months.",
+    "explanation_hi": "अनुच्छेद 17 छुआछूत को समाप्त करता है और किसी भी रूप में इसके अभ्यास को दंडनीय अपराध बनाता है। यह उन कुछ मौलिक अधिकारों में से एक है जो निजी व्यक्तियों पर भी लागू होता है।",
+    "related_case_law": "State of Karnataka v. Appa Balu Ingle (1993): Untouchability extends beyond its literal meaning to its practice in any form.",
+    "points_value": 50,
+    "tags": ["fundamental_rights", "untouchability", "caste_discrimination", "equality"]
+  },
+  {
+    "scenario_title_en": "Forced Religious Class",
+    "scenario_title_hi": "जबरन धार्मिक कक्षा",
+    "scenario_description_en": "You study in a government-funded school. The school introduces a mandatory 'religious education' class that teaches one specific religion. Students who don't attend face penalties. You belong to a different religion.",
+    "scenario_description_hi": "आप एक सरकारी स्कूल में पढ़ते हैं। स्कूल ने एक अनिवार्य 'धार्मिक शिक्षा' कक्षा शुरू की है जो एक विशेष धर्म पढ़ाती है। जो छात्र भाग नहीं लेते उन पर जुर्माना लगता है। आप दूसरे धर्म से हैं।",
+    "difficulty_level": 2,
+    "primary_article_id": 28,
+    "related_articles": [25, 14, 15],
+    "topic_id": 1,
+    "options": [
+      {"option": "A", "text": "Attend the class — it's just education, not conversion", "is_correct": false, "feedback": "You have the right to refuse. Government-funded schools cannot impose religious instruction."},
+      {"option": "B", "text": "This violates Article 28 — no religious instruction in state-funded institutions", "is_correct": true, "feedback": "Correct! Article 28(1) prohibits religious instruction in institutions wholly maintained by state funds. You cannot be forced to attend."},
+      {"option": "C", "text": "Schools can teach any religion they want", "is_correct": false, "feedback": "Not state-funded schools! Article 28 clearly restricts religious instruction in government institutions."},
+      {"option": "D", "text": "Only complain if the religion taught is different from yours", "is_correct": false, "feedback": "Article 28 applies regardless of which religion is being taught. No religious instruction is allowed in state-funded schools."}
+    ],
+    "explanation_en": "Article 28(1) clearly states: No religious instruction shall be provided in any educational institution wholly maintained out of State funds. Even in partly-aided institutions (Article 28(3)), no person attending can be required to take part in religious instruction without their consent (or guardian's consent if minor).",
+    "explanation_hi": "अनुच्छेद 28(1) स्पष्ट कहता है: पूर्णतः राज्य कोष से चलने वाले शिक्षा संस्थानों में कोई धार्मिक शिक्षा नहीं दी जाएगी।",
+    "related_case_law": "Article 28 read with Article 25 ensures freedom of conscience while preventing state-sponsored religious instruction.",
+    "points_value": 50,
+    "tags": ["fundamental_rights", "religion", "education", "secularism"]
+  },
+  {
+    "scenario_title_en": "The Right to Privacy",
+    "scenario_title_hi": "निजता का अधिकार",
+    "scenario_description_en": "Your employer demands access to your personal phone, social media accounts, and WhatsApp messages as a 'condition of employment.' They say the company policy allows them to monitor all employee communications, even personal ones.",
+    "scenario_description_hi": "आपका नियोक्ता 'रोजगार की शर्त' के रूप में आपके व्यक्तिगत फोन, सोशल मीडिया अकाउंट और WhatsApp संदेशों तक पहुंच की मांग करता है। वे कहते हैं कि कंपनी नीति उन्हें सभी कर्मचारी संचार, यहां तक कि व्यक्तिगत, की निगरानी करने की अनुमति देती है।",
+    "difficulty_level": 3,
+    "primary_article_id": 21,
+    "related_articles": [19, 14],
+    "topic_id": 1,
+    "options": [
+      {"option": "A", "text": "Comply — they're the employer, they can set any conditions", "is_correct": false, "feedback": "Employers have rights, but they cannot violate your fundamental right to privacy."},
+      {"option": "B", "text": "This violates your Right to Privacy under Article 21", "is_correct": true, "feedback": "Correct! The Supreme Court in K.S. Puttaswamy v. Union of India (2017) declared that Right to Privacy is a fundamental right under Article 21. Personal communications are protected."},
+      {"option": "C", "text": "Privacy is not a fundamental right in India", "is_correct": false, "feedback": "Wrong! Since the 2017 Puttaswamy judgment, Right to Privacy IS a fundamental right under Article 21."},
+      {"option": "D", "text": "Just create new social media accounts and hide the old ones", "is_correct": false, "feedback": "You shouldn't have to hide. Your privacy is a constitutional right. Assert it!"}
+    ],
+    "explanation_en": "The Supreme Court in Justice K.S. Puttaswamy v. Union of India (2017) unanimously declared that the Right to Privacy is a fundamental right under Article 21. This includes informational privacy (control over personal data), bodily privacy, and privacy of choice. While not absolute, any invasion must satisfy the triple test: legality, legitimate aim, and proportionality.",
+    "explanation_hi": "सुप्रीम कोर्ट ने पुट्टस्वामी मामले (2017) में सर्वसम्मति से घोषणा की कि निजता का अधिकार अनुच्छेद 21 के तहत मौलिक अधिकार है।",
+    "related_case_law": "Justice K.S. Puttaswamy v. Union of India (2017): 9-judge bench unanimously declared Right to Privacy as a fundamental right.",
+    "points_value": 75,
+    "tags": ["fundamental_rights", "privacy", "personal_liberty", "digital_rights"]
+  },
+  {
+    "scenario_title_en": "Child Labor at a Restaurant",
+    "scenario_title_hi": "रेस्तरां में बाल श्रम",
+    "scenario_description_en": "While eating at a popular restaurant, you notice a child who looks about 10 years old washing dishes and serving food. The child looks tired and is clearly working, not just helping family. What do you do?",
+    "scenario_description_hi": "एक लोकप्रिय रेस्तरां में खाना खाते समय, आप एक लगभग 10 साल के बच्चे को बर्तन धोते और खाना परोसते देखते हैं। बच्चा थका हुआ दिखता है और स्पष्ट रूप से काम कर रहा है।",
+    "difficulty_level": 1,
+    "primary_article_id": 24,
+    "related_articles": [21, 23, 39],
+    "topic_id": 1,
+    "options": [
+      {"option": "A", "text": "It's common in India — ignore it", "is_correct": false, "feedback": "Just because something is common doesn't make it legal. Child labor is a constitutional violation."},
+      {"option": "B", "text": "The child is learning skills — it's okay", "is_correct": false, "feedback": "A 10-year-old should be in school, not working in a restaurant. This violates both Article 24 and the Right to Education (Article 21A)."},
+      {"option": "C", "text": "This violates Article 24 — child labor in any establishment is prohibited. Report it.", "is_correct": true, "feedback": "Correct! Article 24 prohibits employment of children below 14 in hazardous employment. The Child Labour Act extends this to ALL occupations. You can report to the Childline (1098) or local labor department."},
+      {"option": "D", "text": "Talk to the restaurant owner but don't report", "is_correct": false, "feedback": "Talking to the owner is good, but child labor is a legal offence. Reporting ensures the child gets help and the practice is stopped."}
+    ],
+    "explanation_en": "Article 24 prohibits employment of children below 14 in factories, mines, and hazardous employment. The Child and Adolescent Labour Act, 2016 extends the ban to all occupations. Article 21A guarantees free education for children aged 6-14. Every child has the right to learn, not labor.",
+    "explanation_hi": "अनुच्छेद 24 कारखानों, खदानों और खतरनाक रोज़गार में 14 वर्ष से कम उम्र के बच्चों के रोज़गार पर रोक लगाता है। अनुच्छेद 21A 6-14 आयु के बच्चों को मुफ्त शिक्षा की गारंटी देता है।",
+    "related_case_law": "M.C. Mehta v. State of Tamil Nadu (1996): Supreme Court issued directions for elimination of child labor and establishment of rehabilitation funds.",
+    "points_value": 50,
+    "tags": ["fundamental_rights", "child_labor", "children_rights", "social_responsibility"]
+  },
+  {
+    "scenario_title_en": "Denied Government Job Due to Gender",
+    "scenario_title_hi": "लिंग के कारण सरकारी नौकरी से वंचित",
+    "scenario_description_en": "You are a woman who applied for a government administrative position. Despite scoring higher than male candidates in the exam, you are told: 'This post is traditionally held by men. We recommend you apply for the women's wing instead.'",
+    "scenario_description_hi": "आप एक महिला हैं जिन्होंने सरकारी प्रशासनिक पद के लिए आवेदन किया। पुरुष उम्मीदवारों से अधिक अंक प्राप्त करने के बावजूद, आपको बताया जाता है: 'यह पद परंपरागत रूप से पुरुषों के लिए है।'",
+    "difficulty_level": 2,
+    "primary_article_id": 16,
+    "related_articles": [14, 15],
+    "topic_id": 1,
+    "options": [
+      {"option": "A", "text": "Accept the decision — some jobs are better suited for men", "is_correct": false, "feedback": "This is exactly the kind of discrimination the Constitution prohibits. Gender cannot be a basis for denying employment."},
+      {"option": "B", "text": "This violates Articles 15 and 16 — gender-based discrimination in government jobs is unconstitutional", "is_correct": true, "feedback": "Correct! Article 16(1) guarantees equal opportunity in public employment, and Article 16(2) specifically prohibits discrimination on grounds of sex. You can challenge this."},
+      {"option": "C", "text": "Apply for the women's wing as suggested", "is_correct": false, "feedback": "You deserve the position you qualified for. The Constitution protects your right to equal opportunity."},
+      {"option": "D", "text": "Only male-dominated fields are reserved for men by law", "is_correct": false, "feedback": "No law reserves administrative positions for men. This is pure discrimination."}
+    ],
+    "explanation_en": "Article 16(1) ensures equal opportunity in public employment for all citizens. Article 16(2) prohibits discrimination on grounds of religion, race, caste, sex, descent, place of birth, or residence. Gender-based denial of a government job is a clear violation.",
+    "explanation_hi": "अनुच्छेद 16(1) सभी नागरिकों के लिए सार्वजनिक रोज़गार में समान अवसर सुनिश्चित करता है। अनुच्छेद 16(2) लिंग के आधार पर भेदभाव पर रोक लगाता है।",
+    "related_case_law": "Air India v. Nergesh Meerza (1981): Supreme Court struck down discriminatory service conditions for air hostesses as violative of Articles 14 and 16.",
+    "points_value": 50,
+    "tags": ["fundamental_rights", "gender_equality", "employment", "discrimination"]
+  },
+  {
+    "scenario_title_en": "The Property Dispute",
+    "scenario_title_hi": "संपत्ति विवाद",
+    "scenario_description_en": "The government announces a new highway project that passes through your family's agricultural land. Officials tell you: 'Your land will be acquired. You have no choice — the government can take any land it wants.'",
+    "scenario_description_hi": "सरकार एक नई राजमार्ग परियोजना की घोषणा करती है जो आपके परिवार की कृषि भूमि से होकर गुजरती है। अधिकारी कहते हैं: 'आपकी ज़मीन acquire की जाएगी। आपके पास कोई विकल्प नहीं है।'",
+    "difficulty_level": 3,
+    "primary_article_id": 300,
+    "related_articles": [14, 21],
+    "topic_id": 2,
+    "options": [
+      {"option": "A", "text": "The government CAN take any land — you have no right to property", "is_correct": false, "feedback": "Wrong! While the right to property is no longer a fundamental right, it IS still a constitutional right under Article 300A."},
+      {"option": "B", "text": "Article 300A protects you — property can only be taken by authority of law with fair process", "is_correct": true, "feedback": "Correct! Article 300A says no person can be deprived of property except by authority of law. The Right to Fair Compensation Act, 2013 ensures fair compensation and rehabilitation."},
+      {"option": "C", "text": "Right to Property is a Fundamental Right — government can never take your land", "is_correct": false, "feedback": "Right to Property was removed from Fundamental Rights by the 44th Amendment (1978). It's now a constitutional right under Article 300A — still protected, but through regular courts, not Article 32."},
+      {"option": "D", "text": "Just negotiate a higher price and accept it", "is_correct": false, "feedback": "You have legal options beyond just negotiating. The law guarantees fair process and compensation."}
+    ],
+    "explanation_en": "Article 300A protects the right to property as a constitutional right. While the government can acquire land for public purposes, it must follow the Right to Fair Compensation and Transparency in Land Acquisition Act, 2013, which mandates fair market value compensation, rehabilitation, and consent requirements.",
+    "explanation_hi": "अनुच्छेद 300A संपत्ति के अधिकार को संवैधानिक अधिकार के रूप में संरक्षित करता है। भूमि अधिग्रहण कानून 2013 उचित मुआवज़ा और पुनर्वास सुनिश्चित करता है।",
+    "related_case_law": "K.T. Plantation v. State of Karnataka (2011): Property acquisition must satisfy public purpose, legitimate aim, and fair compensation.",
+    "points_value": 75,
+    "tags": ["property_rights", "land_acquisition", "legal_rights", "government_power"]
+  },
+  {
+    "scenario_title_en": "Free Legal Aid",
+    "scenario_title_hi": "मुफ्त कानूनी सहायता",
+    "scenario_description_en": "Your neighbor, a daily wage worker, has been falsely accused of theft. He cannot afford a lawyer. He tells you: 'I have no money for a lawyer, so I will just accept whatever punishment they give me. Poor people have no rights.'",
+    "scenario_description_hi": "आपका पड़ोसी, एक दैनिक मज़दूर, चोरी के झूठे आरोप में फंसा है। वह वकील का खर्च वहन नहीं कर सकता। वह कहता है: 'मेरे पास वकील के लिए पैसे नहीं हैं, मैं जो भी सज़ा दें स्वीकार कर लूंगा।'",
+    "difficulty_level": 1,
+    "primary_article_id": 39,
+    "related_articles": [21, 22, 14],
+    "topic_id": 3,
+    "options": [
+      {"option": "A", "text": "He's right — only rich people can afford justice", "is_correct": false, "feedback": "Absolutely wrong! The Constitution guarantees free legal aid to those who cannot afford it."},
+      {"option": "B", "text": "He should crowdfund for a lawyer", "is_correct": false, "feedback": "While that's an option, the government is constitutionally obligated to provide free legal aid."},
+      {"option": "C", "text": "Tell him about free legal aid under Article 39A — the government MUST provide a free lawyer", "is_correct": true, "feedback": "Correct! Article 39A ensures equal justice and free legal aid. NALSA provides free legal services. He can contact the District Legal Services Authority or call Tele-Law helpline."},
+      {"option": "D", "text": "Ask him to represent himself in court", "is_correct": false, "feedback": "Self-representation is possible but risky, especially for someone unfamiliar with law. Free legal aid is his right."}
+    ],
+    "explanation_en": "Article 39A directs the state to provide free legal aid. The Legal Services Authorities Act, 1987 established NALSA. Free legal aid is available to: SC/ST members, women, children, disabled persons, victims of trafficking, industrial workers, persons in custody, and anyone with annual income below ₹3 lakhs. Contact: District Legal Services Authority or Tele-Law (14141).",
+    "explanation_hi": "अनुच्छेद 39A राज्य को मुफ्त कानूनी सहायता प्रदान करने का निर्देश देता है। NALSA मुफ्त कानूनी सेवाएं प्रदान करता है। जिला विधिक सेवा प्राधिकरण या टेली-लॉ (14141) से संपर्क करें।",
+    "related_case_law": "Hussainara Khatoon v. State of Bihar (1979): Supreme Court held that free legal aid is a fundamental right under Article 21.",
+    "points_value": 50,
+    "tags": ["dpsp", "legal_aid", "justice", "poverty", "rights_awareness"]
+  },
+  {
+    "scenario_title_en": "Emergency Powers Debate",
+    "scenario_title_hi": "आपातकालीन शक्तियों पर बहस",
+    "scenario_description_en": "In a class debate, your opponent argues: 'During a National Emergency, the government can suspend ALL fundamental rights including the right to life. Citizens have no protections whatsoever during emergency.' Is this correct?",
+    "scenario_description_hi": "कक्षा की बहस में, आपका प्रतिद्वंद्वी तर्क देता है: 'राष्ट्रीय आपातकाल के दौरान, सरकार जीवन के अधिकार सहित सभी मौलिक अधिकारों को निलंबित कर सकती है।' क्या यह सही है?",
+    "difficulty_level": 4,
+    "primary_article_id": 352,
+    "related_articles": [20, 21, 19],
+    "topic_id": 4,
+    "options": [
+      {"option": "A", "text": "Yes, ALL rights are suspended during emergency", "is_correct": false, "feedback": "Wrong! After the 44th Amendment (1978), Articles 20 and 21 CANNOT be suspended even during emergency."},
+      {"option": "B", "text": "No — Articles 20 and 21 (right to life and protection against conviction) can NEVER be suspended, even during emergency", "is_correct": true, "feedback": "Correct! The 44th Amendment ensured that Articles 20 (protection against conviction) and 21 (right to life and liberty) cannot be suspended even during a National Emergency. This was a lesson from the 1975 Emergency."},
+      {"option": "C", "text": "Emergency can only be declared during war, not for internal issues", "is_correct": false, "feedback": "After the 44th Amendment, emergency can be declared for war, external aggression, or armed rebellion (not just 'internal disturbance')."},
+      {"option": "D", "text": "Emergency hasn't been declared since independence, so it doesn't matter", "is_correct": false, "feedback": "Emergency was declared 3 times: 1962, 1971, and 1975. Understanding emergency provisions is crucial for protecting democracy."}
+    ],
+    "explanation_en": "After the 1975 Emergency experience, the 44th Amendment (1978) introduced crucial safeguards: Articles 20 and 21 can NEVER be suspended; 'internal disturbance' changed to 'armed rebellion'; written Cabinet advice required; parliamentary approval within 1 month.",
+    "explanation_hi": "1975 आपातकाल के अनुभव के बाद, 44वें संशोधन (1978) ने महत्वपूर्ण सुरक्षा उपाय लागू किए: अनुच्छेद 20 और 21 को कभी निलंबित नहीं किया जा सकता।",
+    "related_case_law": "ADM Jabalpur v. Shivkant Shukla (1976): During 1975 Emergency, SC controversially ruled right to life could be suspended. This was later overruled by the Puttaswamy judgment (2017).",
+    "points_value": 100,
+    "tags": ["emergency", "fundamental_rights", "history", "constitutional_safeguards"]
+  },
+  {
+    "scenario_title_en": "Uniform Civil Code Question",
+    "scenario_title_hi": "समान नागरिक संहिता प्रश्न",
+    "scenario_description_en": "In a group discussion, someone asks: 'Why doesn't India have one set of marriage and divorce laws for everyone? Hindu law, Muslim law, Christian law — isn't this inequality?' What is the constitutional position?",
+    "scenario_description_hi": "एक समूह चर्चा में कोई पूछता है: 'भारत में सबके लिए एक शादी और तलाक का कानून क्यों नहीं है? हिंदू कानून, मुस्लिम कानून, ईसाई कानून — क्या यह असमानता नहीं है?'",
+    "difficulty_level": 4,
+    "primary_article_id": 44,
+    "related_articles": [25, 14, 15],
+    "topic_id": 3,
+    "options": [
+      {"option": "A", "text": "The Constitution mandates a Uniform Civil Code — the government is violating it", "is_correct": false, "feedback": "Article 44 is a DPSP (Directive Principle), not a Fundamental Right. It's a goal the state should work towards, but is not legally enforceable."},
+      {"option": "B", "text": "Article 44 (DPSP) says the state SHOULD endeavor to implement a UCC, but it's a goal, not a mandate", "is_correct": true, "feedback": "Correct! Article 44 is a Directive Principle — it directs the state to work towards a Uniform Civil Code but cannot be enforced by courts. The balance between UCC and religious freedom (Article 25) is an ongoing national debate."},
+      {"option": "C", "text": "Different personal laws are unconstitutional", "is_correct": false, "feedback": "Different personal laws are currently constitutional. Article 25 protects religious practices, and personal laws are considered part of religious freedom."},
+      {"option": "D", "text": "The Constitution says nothing about a Uniform Civil Code", "is_correct": false, "feedback": "Article 44 specifically mentions UCC. It's part of the Directive Principles of State Policy in Part IV."}
+    ],
+    "explanation_en": "Article 44 is a Directive Principle directing the state to secure a Uniform Civil Code. DPSPs are not enforceable by courts (Article 37) but are 'fundamental in the governance of the country.' The balance between UCC (Article 44) and religious freedom (Article 25) remains one of India's most debated constitutional questions.",
+    "explanation_hi": "अनुच्छेद 44 एक निदेशक सिद्धांत है जो राज्य को समान नागरिक संहिता सुनिश्चित करने का निर्देश देता है। DPSP अदालतों द्वारा प्रवर्तनीय नहीं हैं लेकिन शासन में मौलिक हैं।",
+    "related_case_law": "Shah Bano case (1985): Supreme Court emphasized the need for UCC while deciding Muslim woman's right to maintenance.",
+    "points_value": 100,
+    "tags": ["dpsp", "uniform_civil_code", "personal_law", "secularism", "debate"]
+  },
+  {
+    "scenario_title_en": "Internet Shutdown",
+    "scenario_title_hi": "इंटरनेट बंद",
+    "scenario_description_en": "The government shuts down internet services in your entire state for an indefinite period, citing 'public order concerns.' You are a student who relies on online classes, and businesses are suffering. Is this constitutional?",
+    "scenario_description_hi": "सरकार 'सार्वजनिक व्यवस्था' का हवाला देकर आपके पूरे राज्य में अनिश्चितकाल के लिए इंटरनेट सेवाएं बंद कर देती है। आप ऑनलाइन कक्षाओं पर निर्भर छात्र हैं।",
+    "difficulty_level": 4,
+    "primary_article_id": 19,
+    "related_articles": [21, 14],
+    "topic_id": 1,
+    "options": [
+      {"option": "A", "text": "Internet access is not a right — the government can shut it anytime", "is_correct": false, "feedback": "The Supreme Court has recognized internet access as part of the right to free speech (Article 19) and right to trade (Article 19(1)(g))."},
+      {"option": "B", "text": "An indefinite, blanket shutdown violates Articles 19 and 21 — it must be proportional and time-bound", "is_correct": true, "feedback": "Correct! In Anuradha Bhasin v. Union of India (2020), the Supreme Court held that internet shutdowns must satisfy the proportionality test, be time-bound, and subject to judicial review. Indefinite shutdowns are unconstitutional."},
+      {"option": "C", "text": "The government has unlimited power over internet during emergencies", "is_correct": false, "feedback": "Even during security concerns, shutdowns must be proportional, temporary, and reviewable. The government's power is not unlimited."},
+      {"option": "D", "text": "Only businesses can challenge shutdowns, not students", "is_correct": false, "feedback": "Any affected person can challenge. Internet access affects education (Article 21A), livelihood (Article 21), and free speech (Article 19)."}
+    ],
+    "explanation_en": "The Supreme Court in Anuradha Bhasin v. Union of India (2020) held that internet access is protected under Articles 19(1)(a) and 19(1)(g). Internet shutdowns must satisfy: legality (under published order), legitimate aim, necessity, and proportionality. They must be time-bound and subject to review.",
+    "explanation_hi": "सुप्रीम कोर्ट ने अनुराधा भसीन मामले (2020) में माना कि इंटरनेट शटडाउन अनुच्छेद 19 की कसौटी पर खरा उतरना चाहिए — वैधता, आनुपातिकता, और समय-सीमा।",
+    "related_case_law": "Anuradha Bhasin v. Union of India (2020): Landmark case on internet freedom and proportionality test for shutdowns.",
+    "points_value": 100,
+    "tags": ["fundamental_rights", "digital_rights", "free_speech", "internet", "modern_issues"]
+  },
+  {
+    "scenario_title_en": "Understanding the Preamble",
+    "scenario_title_hi": "प्रस्तावना को समझना",
+    "scenario_description_en": "A friend tells you: 'The Preamble is just an introduction — it has no legal value. It can't be used in court and doesn't mean anything legally.' Is this correct?",
+    "scenario_description_hi": "एक दोस्त कहता है: 'प्रस्तावना सिर्फ एक भूमिका है — इसका कोई कानूनी मूल्य नहीं है। इसे अदालत में इस्तेमाल नहीं किया जा सकता।'",
+    "difficulty_level": 2,
+    "primary_article_id": 0,
+    "related_articles": [14, 19, 21],
+    "topic_id": 5,
+    "options": [
+      {"option": "A", "text": "Your friend is correct — the Preamble has no legal value", "is_correct": false, "feedback": "This was the view in 1960 (Berubari case), but it was overruled in 1973."},
+      {"option": "B", "text": "The Preamble IS part of the Constitution since the Kesavananda Bharati case (1973) and reflects the basic structure", "is_correct": true, "feedback": "Correct! The Supreme Court in Kesavananda Bharati v. State of Kerala (1973) held that the Preamble is part of the Constitution. It can be amended (42nd Amendment added 'Socialist', 'Secular', 'Integrity') but its basic structure cannot be altered."},
+      {"option": "C", "text": "The Preamble can never be changed or amended", "is_correct": false, "feedback": "The Preamble CAN be amended under Article 368. The 42nd Amendment (1976) added 'Socialist', 'Secular', and 'Integrity' to it."},
+      {"option": "D", "text": "The Preamble only applies to the government, not citizens", "is_correct": false, "feedback": "The Preamble's values — justice, liberty, equality, fraternity — apply to the entire nation and guide constitutional interpretation."}
+    ],
+    "explanation_en": "Initially, in the Berubari Union case (1960), the Supreme Court held the Preamble was not part of the Constitution. But this was overruled in Kesavananda Bharati v. State of Kerala (1973), where the 13-judge bench held that the Preamble IS part of the Constitution and reflects its basic structure.",
+    "explanation_hi": "केशवानंद भारती मामले (1973) में, सुप्रीम कोर्ट ने माना कि प्रस्तावना संविधान का हिस्सा है और इसकी मूल संरचना को दर्शाती है।",
+    "related_case_law": "Kesavananda Bharati v. State of Kerala (1973): The most important constitutional case — established the basic structure doctrine.",
+    "points_value": 50,
+    "tags": ["preamble", "basic_structure", "constitutional_knowledge", "fundamentals"]
+  },
+  {
+    "scenario_title_en": "Right to Education Denied",
+    "scenario_title_hi": "शिक्षा के अधिकार से वंचित",
+    "scenario_description_en": "An 8-year-old child from a poor family is denied admission to a private school near your home. The school says: 'We don't have to admit children from economically weaker sections. This is a private school — we can choose our students.'",
+    "scenario_description_hi": "एक गरीब परिवार का 8 वर्षीय बच्चा आपके घर के पास के प्राइवेट स्कूल में प्रवेश से वंचित है। स्कूल कहता है: 'हमें आर्थिक रूप से कमज़ोर वर्गों के बच्चों को प्रवेश देने की ज़रूरत नहीं।'",
+    "difficulty_level": 2,
+    "primary_article_id": 21,
+    "related_articles": [14, 15, 45],
+    "topic_id": 1,
+    "options": [
+      {"option": "A", "text": "Private schools can choose whoever they want", "is_correct": false, "feedback": "Not entirely true! The RTE Act requires 25% reservation for disadvantaged and economically weaker sections in private schools."},
+      {"option": "B", "text": "Article 21A and the RTE Act require 25% reservation for EWS in private schools — the school is violating the law", "is_correct": true, "feedback": "Correct! Article 21A guarantees free and compulsory education for ages 6-14. The RTE Act (2009) mandates 25% reservation for disadvantaged groups in private unaided schools. The school must comply."},
+      {"option": "C", "text": "Right to Education only applies to government schools", "is_correct": false, "feedback": "The RTE Act applies to both government AND private schools (with the 25% reservation for EWS)."},
+      {"option": "D", "text": "Education is not a right in India — it's a privilege", "is_correct": false, "feedback": "Since the 86th Amendment (2002), education for ages 6-14 is a FUNDAMENTAL RIGHT under Article 21A."}
+    ],
+    "explanation_en": "Article 21A (added by 86th Amendment, 2002) makes education a fundamental right for children aged 6-14. The RTE Act, 2009 mandates: free education in government schools, 25% reservation for disadvantaged groups in private schools, no child to be held back till Class 8, and minimum infrastructure standards.",
+    "explanation_hi": "अनुच्छेद 21A (86वें संशोधन, 2002 द्वारा जोड़ा गया) 6-14 आयु के बच्चों के लिए शिक्षा को मौलिक अधिकार बनाता है। RTE अधिनियम 2009 प्राइवेट स्कूलों में 25% आरक्षण अनिवार्य करता है।",
+    "related_case_law": "Society for Unaided Private Schools v. Union of India (2012): Supreme Court upheld the constitutionality of the RTE Act including 25% reservation in private schools.",
+    "points_value": 50,
+    "tags": ["fundamental_rights", "education", "children_rights", "RTE", "EWS"]
+  }
+]
